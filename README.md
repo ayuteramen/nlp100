@@ -8,6 +8,6 @@
 [第5章](https://colab.research.google.com/drive/1zhyevS4woApLpRdAnBQWl8DP2t8TSvjj)  
 [第6章](https://colab.research.google.com/drive/1WPDZn0z5-6tj0-YUgYNvvNgQcYta--ff)  
 [第7章](https://colab.research.google.com/drive/1_So0z92HR3HZ23UjEKL1He2t5SphYxoD)  
-[第8章]()未作成  
+[第8章](https://colab.research.google.com/drive/1vADCl8-Wt60BPqKKdzsBwxyNGYnqzt9l)  
 [第9章]()未作成  
 [第10章]()未作成  
